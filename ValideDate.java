@@ -1,4 +1,4 @@
-//  Lucas G
+//  Loux14
 
 //  NB : l"utilisation du double \n dans mes prints 
 //  a pour but de rendre l'utilisation plus lisible dans le terminal
